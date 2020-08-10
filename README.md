@@ -1,3 +1,7 @@
+<h1>Juego de numeros<h1/>
+ <p>El proyecto utiliza Bootstrap, ES7, Reactjs y  React hooks<p/> 
+  
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
